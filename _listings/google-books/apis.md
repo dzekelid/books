@@ -27,7 +27,7 @@ apis:
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/google-books/users-userid-bookshelves-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/google-books/users-userid-bookshelves-shelf-get.md
 x-common:
 - type: x-blog
   url: http://booksearch.blogspot.com
