@@ -23,7 +23,7 @@ apis:
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/new-york-times/lists-date-list-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/new-york-times/lists-overview-format-get.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
