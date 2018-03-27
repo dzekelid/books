@@ -12,9 +12,9 @@ tags:
 - Stack Network
 - Google APIs
 - Books
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/google-books/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Google Books API
@@ -27,7 +27,7 @@ apis:
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/google-books/users-userid-bookshelves-shelf-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/mylibrary-bookshelves-get.md
 x-common:
 - type: x-blog
   url: http://booksearch.blogspot.com
