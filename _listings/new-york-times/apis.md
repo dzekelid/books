@@ -9,9 +9,9 @@ x-alexaRank: ""
 tags:
 - News
 - Media
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/new-york-times/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: New York Times
@@ -23,7 +23,7 @@ apis:
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/books/master/_listings/new-york-times/lists-names-format-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/lists-best-sellers-history-json-get.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
