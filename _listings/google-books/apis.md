@@ -28,9 +28,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/users-userid-bookshelves-shelf-get.md
-- name: Google Books API Get Bookshelf
-  description: Retrieves metadata for a specific bookshelf belonging to the authenticated
-    user.
+- name: Google Books API Get Public Bookkshelves
+  description: Retrieves a list of public bookshelves for the specified user.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2017-03-16 at 4.28.26 PM.png
   humanURL: https://developers.google.com/books/
@@ -38,9 +37,9 @@ apis:
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/mylibrary-bookshelves-shelf-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/users-userid-bookshelves-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/mylibrary-bookshelves-shelf-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/users-userid-bookshelves-get-postman.md
 x-common:
 - type: x-blog
   url: http://booksearch.blogspot.com
