@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Books
-  description: Searches for books and manages your Google Books library.
+  title: Google Books API Get Bookshelves
+  description: Retrieves a list of bookshelves belonging to the authenticated user.
   contact:
     name: Google
     url: https://google.com
