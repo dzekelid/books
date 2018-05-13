@@ -24,18 +24,22 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/lists-names-format-get.md
-- name: New York Times Best Seller List Overview
-  description: The overview service returns the top 5 books for all the Best Sellers
-    lists.
+- name: New York Times Best Seller List Names
+  description: "The names service returns a list of Best Sellers list names. It includes
+    in the response the type of list (weekly or monthly) and when it was first published
+    and last published. Lists have been added and removed over time. For example the
+    Food and Diet list was added in 2013 and the Children\u2019s Chapter Books list
+    was removed in 2012. The response also includes the list_name_encoded which you
+    use when calling the details service."
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
   humanURL: http://nytimes.com/
   baseURL: https://api.nytimes.com//svc
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-overview-format-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-names-format-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-overview-format-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-names-format-get-postman.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
