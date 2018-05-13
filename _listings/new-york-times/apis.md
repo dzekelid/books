@@ -24,18 +24,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/lists-names-format-get.md
-- name: New York Times Best Seller History List
-  description: The Best Sellers history service returns books and their history on
-    the NYT Best Sellers lists.
+- name: New York Times Best Seller List by Date
+  description: You can optionally request an overview for a specific published date
+    using the published_date query parameter.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
   humanURL: http://nytimes.com/
   baseURL: https://api.nytimes.com//svc
   tags: Books
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-best-sellers-history-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-date-list-json-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-best-sellers-history-json-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/new-york-times/books-v2-lists-date-list-json-get-postman.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
