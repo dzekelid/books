@@ -1,0 +1,508 @@
+{
+	"name": "Streadata.io API Gallery - Books",
+	"description": "This is a repository of books APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/books.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://books.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Etsy",
+			"x-api-slug": "etsy",
+			"description": "Find handmade, vintage, and unique goods that express who you are.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/192-etsy.jpg",
+			"humanURL": "http://www.etsy.com/",
+			"baseURL": "https://openapi.etsy.com//v2/private/",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/etsy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lulu",
+			"x-api-slug": "lulu",
+			"description": "Lulu is creating a new model in publishing that empowers more creators to sell more content to more readers more profitably than ever before. Through our open publishing platform, we are helping creators make works available in multiple formats and markets and improving discovery so buyers can more easily find the content they need. Since our founding in 2002, 1.1 million creators from more than 200 countries and territories have signed up with us. And each month, we add approximately 20,000 titles to our catalog.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/223-lulu-api.jpg",
+			"humanURL": "http://lulu.com",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/lulu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Los Angeles Times",
+			"x-api-slug": "los-angeles-times",
+			"description": "The LA Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/230-los-angeles-times.jpg",
+			"humanURL": "http://wsj.com",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/los-angeles-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pearson plc",
+			"x-api-slug": "pearson-plc",
+			"description": "Offering educational products and services, assessment, and professional development for all stages of learning. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/238-pearson-plc.jpg",
+			"humanURL": "https://developer.pearson.com/",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/pearson-plc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twitter",
+			"x-api-slug": "twitter",
+			"description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twitter-logo.png",
+			"humanURL": "https://twitter.com/",
+			"baseURL": "https://api.twitter.com//1.1",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/twitter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Feedbooks",
+			"x-api-slug": "feedbooks",
+			"description": "Discover thousands of eBooks, including new releases and the best collection of free public domain books, that you can read on any mobile device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/403-feedbooks.jpg",
+			"humanURL": "http://www.feedbooks.com",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/feedbooks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Goodreads",
+			"x-api-slug": "goodreads",
+			"description": "Goodreads is a world&rsquo;s largest site for book readers and recommendations. As of December 2011, Goodreads has more than 6,700,000 members who have added more than 230,000,000 books to their shelves. A home for casual readers and bona-fide bookworms alike, Goodreads users recommend books, compare what they are reading, keep track of what they&rsquo;ve read and would like to read, find their next favorite book, form book clubs and much more. Goodreads was launched in January 2007.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/415-goodreads.jpg",
+			"humanURL": "http://www.goodreads.com",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/goodreads/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Issuu",
+			"x-api-slug": "issuu",
+			"description": "Millions of readers find and share the magazines, catalogs and publications they love on issuu.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/428-issuu.jpg",
+			"humanURL": "http://issuu.com",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/issuu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SharedBook",
+			"x-api-slug": "sharedbook",
+			"description": "SharedBook provides secure mobile delivery of workbooks, manuals, reports, and other content for trainers, management consultants, publishers, and associations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/928-sharedbook.jpg",
+			"humanURL": "http://www.sharedbook.com/dev/",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/sharedbook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WorldCat",
+			"x-api-slug": "worldcat",
+			"description": "Find what you want in a library near you with WorldCat, a global catalog of library collections.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/971-worldcat.jpg",
+			"humanURL": "http://xisbn.worldcat.org/xisbnadmin/index.htm",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/worldcat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GoMobileIQ Headlight",
+			"x-api-slug": "gomobileiq-headlight",
+			"description": "The smarter way to plan routes. Perfect for small business owners, service managers and individuals. Headlight combines online mapping, routing, email and customers notifications into a single online application. Its a smarter way to quickly plan effi...",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.gomobileiq.com/optimize-daily-routes/",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/gomobileiq-headlight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "University of Michigan",
+			"x-api-slug": "university-of-michigan",
+			"description": "A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1635-university-of-michigan.jpg",
+			"humanURL": "http://umich.edu/",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/university-of-michigan/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wattpad",
+			"x-api-slug": "wattpad",
+			"description": "Wattpad is the best place to read and share stories.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1683-wattpad.jpg",
+			"humanURL": "http://www.wattpad.com/api_doc",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/wattpad/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CampusBooks",
+			"x-api-slug": "campusbooks",
+			"description": "CampusBooks.com is a price-comparison website that scours the Internet for the best deals on textbooks. Visit us at www.CampusBooks.com today to see how much money and time we can save you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2102-campusbooks.jpg",
+			"humanURL": "http://www.campusbooks.com/",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/campusbooks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bookshare API",
+			"x-api-slug": "bookshare-api",
+			"description": "Bookshare is an initiative of Benetech, a nonprofit organization that combines the power of the human mind with a deep passion for social improvement. It addresses the needs of underserved communities with innovative technology solutions.    Bookshare...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3480-bookshare-api.jpg",
+			"humanURL": "http://bookshare.org/",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/bookshare-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GlobalChange.gov",
+			"x-api-slug": "globalchange-gov",
+			"description": "The U.S. Global Change Research Program (USGCRP) was established by Presidential Initiative in 1989 and mandated by Congress in the Global Change Research Act (GCRA) of 1990 to &ldquo;assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.&rdquo;",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png",
+			"humanURL": "http://globalchange.gov/",
+			"baseURL": "https://data.globalchange.gov//",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The New York Times",
+			"x-api-slug": "the-new-york-times",
+			"description": "The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more at nytimes.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18820-new-york-times.jpg",
+			"humanURL": "http://nytimes.com",
+			"baseURL": "https://api.nytimes.com//svc",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/the-new-york-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HarperCollins Publishers",
+			"x-api-slug": "harpercollins-publishers",
+			"description": "HarperCollins Publishers is one of the worlds leading English-language publishers. Headquartered in New York, the company is a subsidiary of News Corporation. The house of Mark Twain, the Bront? sisters, Thackeray, Dickens, John F. Kennedy, Martin Luther King Jr., Maurice Sendak, Shel Silverstein, and Margaret Wise Brown, HarperCollins was founded in New York City in 1817. ?Today, HarperCollins is a broad-based publisher with strengths in literary and commercial fiction, business books, childrens books, cookbooks, and mystery, romance, reference, religious, and spiritual books. Consistently at the forefront of innovation and technological advancement, HarperCollins is the first publisher to digitize its content and create a global digital warehouse to protect the rights of its authors, meet consumer demand, and generate additional business opportunities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Harper-Collins-Company-Logo.jpg",
+			"humanURL": "http://harpercollins.com",
+			"baseURL": "https:///",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/harpercollins-publishers/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Books",
+			"x-api-slug": "google-books",
+			"description": "Google Books is our effort to make book content more discoverable on the Web. Using the Google Books API, your application can perform full-text searches and retrieve book information, viewability and eBook availability. You can also manage your personal bookshelves.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-16 at 4.28.26 PM.png",
+			"humanURL": "https://developers.google.com/books/",
+			"baseURL": "://www.googleapis.com//books/v1",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Steem",
+			"x-api-slug": "steem",
+			"description": "A new way for publishers to monetize their online content and community, based on battle-tested blockchain technology.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg",
+			"humanURL": "http://steemit.com",
+			"baseURL": "https://api.steemjs.com//",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/steem/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IEX",
+			"x-api-slug": "iex",
+			"description": "IEX, the Investors Exchange, is a fair, simple and transparent stock exchange dedicated to investor and issuer protection.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg",
+			"humanURL": "https://iextrading.com",
+			"baseURL": "https://api.iextrading.com//1.0",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/iex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OnSched",
+			"x-api-slug": "onsched",
+			"description": "Build secure and scalable custom apps for Online Booking. Our flexible API provides many options for availability and booking. OnSched is an API first booking software that allows you to bring your design to life by creating your own booking flow. Using our robust API you can customize the interaction between your consumers and vendors while we do all the leg work behind the scenes. Want to offer online booking to your vendors? Ask about our white labelling solutions and rebrand our software as your own.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/onsched-logo.png",
+			"humanURL": "http://www.onsched.com",
+			"baseURL": "https://api.onsched.com//",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/onsched/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Books",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Books",
+	"include": [
+		{
+			"name": "Etsy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/etsy/apis.yaml"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "Lulu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/lulu/apis.yaml"
+		},
+		{
+			"name": "Los Angeles Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/los-angeles-times/apis.yaml"
+		},
+		{
+			"name": "Pearson plc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/pearson-plc/apis.yaml"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/twitter/apis.yaml"
+		},
+		{
+			"name": "Feedbooks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/feedbooks/apis.yaml"
+		},
+		{
+			"name": "Goodreads",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/goodreads/apis.yaml"
+		},
+		{
+			"name": "Issuu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/issuu/apis.yaml"
+		},
+		{
+			"name": "SharedBook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/sharedbook/apis.yaml"
+		},
+		{
+			"name": "WorldCat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/worldcat/apis.yaml"
+		},
+		{
+			"name": "GoMobileIQ Headlight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/gomobileiq-headlight/apis.yaml"
+		},
+		{
+			"name": "University of Michigan",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/university-of-michigan/apis.yaml"
+		},
+		{
+			"name": "Wattpad",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/wattpad/apis.yaml"
+		},
+		{
+			"name": "CampusBooks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/campusbooks/apis.yaml"
+		},
+		{
+			"name": "Bookshare API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/bookshare-api/apis.yaml"
+		},
+		{
+			"name": "GlobalChange.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/apis.yaml"
+		},
+		{
+			"name": "The New York Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/the-new-york-times/apis.yaml"
+		},
+		{
+			"name": "HarperCollins Publishers",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/harpercollins-publishers/apis.yaml"
+		},
+		{
+			"name": "Google Books",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/google-books/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "Steem",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/steem/apis.yaml"
+		},
+		{
+			"name": "IEX",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/iex/apis.yaml"
+		},
+		{
+			"name": "OnSched",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/onsched/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

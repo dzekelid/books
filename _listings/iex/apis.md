@@ -7,11 +7,47 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.
 x-kinRank: "9"
 x-alexaRank: "166667"
 tags: Books
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/iex/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: IEX - Book
+  x-api-slug: deepbook-get
+  description: Subscribe to the book channel.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/iex/deepbook-get-openapi.md
+- name: IEX - Book
+  x-api-slug: deepbook-get
+  description: Subscribe to the book channel.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/iex/deepbook-get-openapi.md
+- name: IEX - Book
+  x-api-slug: deepbook-get
+  description: Subscribe to the book channel.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/iex/deepbook-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://idx.broker.api.gallery.streamdata.io

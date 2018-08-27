@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Books
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/apis.md
 specificationVersion: "0.14"
 apis:
@@ -40,6 +40,19 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/reportreport-identifierbook-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/reportreport-identifierbook-get-openapi.md
+- name: Global Change Information System API - Get a representation of a book.
+  x-api-slug: bookbook-identifier-get
+  description: Get JSON which represents the structure of a book.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
+  humanURL: http://globalchange.gov/
+  baseURL: https://data.globalchange.gov//
+  tags: Federal Government, Federal Government, Stack Network, API Provider, Profiles,
+    General Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/bookbook-identifier-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/globalchange-gov/bookbook-identifier-get-openapi.md
 - name: Global Change Information System API - Get a representation of a book.
   x-api-slug: bookbook-identifier-get
   description: Get JSON which represents the structure of a book.

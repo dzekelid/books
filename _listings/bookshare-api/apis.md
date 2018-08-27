@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3480-books
 x-kinRank: "7"
 x-alexaRank: "47159"
 tags: Books
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/bookshare-api/apis.md
 specificationVersion: "0.14"
 apis: []

@@ -7,11 +7,23 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-stee
 x-kinRank: "7"
 x-alexaRank: "138048"
 tags: Books
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/steem/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Interactive Steem API - get_order_book
+  x-api-slug: get-order-book-get
+  description: get_order_book
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg
+  humanURL: http://steemit.com
+  baseURL: https://api.steemjs.com//
+  tags: Technology, SaaS, Blockchain, Content
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/steem/get-order-book-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/books/master/_listings/steem/get-order-book-get-openapi.md
 - name: Interactive Steem API - get_order_book
   x-api-slug: get-order-book-get
   description: get_order_book
